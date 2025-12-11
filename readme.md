@@ -69,3 +69,10 @@ npm start
 Your server should log something like:
 
 # server started at : http://localhost:3000
+
+
+# sample deployed input
+
+    https://convertcart2.onrender.com/
+    
+    https://convertcart2.onrender.com/api/search/dishes?name=biryani&minPrice=150&maxPrice=300
